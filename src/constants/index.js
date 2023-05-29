@@ -199,7 +199,8 @@ import {
             },
         ],
         image: socialmedia,
-        source_code_link: "https://github.com/MuhammadAflah/Social_media.git",
+        source_code_link: "https://github.com/MuhammadAflah/Hashtag_SocialMedia_App.git",
+        live_link: "https://master.d1nv9eb5rafclu.amplifyapp.com/",
     },
     {
         name: "E-Commerce",
@@ -225,6 +226,7 @@ import {
         ],
         image: ecommerce,
         source_code_link: "https://github.com/MuhammadAflah/e-commerce.git",
+        live_link: "https://master.d1nv9eb5rafclu.amplifyapp.com/",
     },
     {
         name: "Netflix Clone",
@@ -243,6 +245,7 @@ import {
         ],
         image: netflix,
         source_code_link: "https://github.com/MuhammadAflah/Netflix-clone-react.git",
+        live_link: "https://netflix-clone-react-teal.vercel.app/",
     },
     {
         name: "OLX Clone",
@@ -265,6 +268,7 @@ import {
         ],
         image: olx,
         source_code_link: "https://github.com/MuhammadAflah/OLX-with-react-and-nodejs.git",
+        live_link: "https://olx-clone-using-react.vercel.app/",
     },
     {
         name: "ToDo App",
@@ -283,6 +287,7 @@ import {
         ],
         image: todo,
         source_code_link: "https://github.com/MuhammadAflah/To-Do-using-react.git",
+        live_link: "https://to-do-using-react-seven.vercel.app/",
     },
     {
         name: "Weather App",
@@ -301,6 +306,7 @@ import {
         ],
         image: weather,
         source_code_link: "https://github.com/MuhammadAflah/Weather_app.git",
+        live_link: "https://weather-app-iota-mocha-29.vercel.app/",
     },
 ];
   
