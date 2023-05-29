@@ -72,7 +72,7 @@ const Contact = () => {
         <div className="flex-grow">
           <div className="flex">
             <img src={mail} alt="mail" className="rounded w-12 h-12" />
-            <h1 className="text-white mt-3 ml-3">muhammadaflah786@gmail.com</h1>
+            <h1 className="text-white mt-3 ml-3 text-[12px] md:text-[16px]">muhammadaflah786@gmail.com</h1>
           </div>
           <div className="flex mt-5">
             <img src={call} alt="mail" className="rounded w-12 h-12" />
