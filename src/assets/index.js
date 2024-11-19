@@ -4,10 +4,12 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-import menu from "./menu.svg";  
+import menu from "./menu.svg";
 import close from "./close.svg";
-import Uni_of_cali from './company/Uni_of_cali.png'
-import brototype_icon from './company/brototype_icon.jpg'
+import Uni_of_cali from "./company/Uni_of_cali.png";
+import brototype_icon from "./company/brototype_icon.jpg";
+import command_rooms from "./company/command_rooms.jpg";
+import datamotion from "./company/datamotion.jpg";
 import socialmedia from "./social-media.webp";
 import ecommerce from "./e-commerce.jpg";
 import olx from "./olx.jpg";
@@ -28,14 +30,14 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import express from "./tech/express.png"
-import sql from "./tech/sql.png"
-import aws from "./tech/aws.png"
-import firebase from "./tech/firebase.png"
+import express from "./tech/express.png";
+import sql from "./tech/sql.png";
+import aws from "./tech/aws.png";
+import firebase from "./tech/firebase.png";
 import image from "./image.jpg";
 import mail from "./mail.png";
 import call from "./call.png";
-import location from "./location.png"
+import location from "./location.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -45,7 +47,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import deploy from "./deploy.png"
+import deploy from "./deploy.png";
 
 export {
   logo,
@@ -93,4 +95,6 @@ export {
   aws,
   firebase,
   deploy,
+  command_rooms,
+  datamotion,
 };
